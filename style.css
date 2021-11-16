@@ -1,0 +1,57 @@
+
+a{
+   border: 2px solid black;
+   position: fixed;
+   font-size:21px;
+   background-color: green;
+   color: white;
+}
+
+a:hover{
+  color: green;
+ 
+}
+.hp:hover{
+  color: rgb(62, 128, 0);
+
+}
+.hp2:hover{
+  color: rgb(23, 245, 23);
+
+}
+.hp{
+border: 2px solid black;
+padding:10px;
+margin: 10px;
+font-size: 25px;
+}
+.hp2{
+border: 2px solid black;
+padding: 20px;
+left: 40px;
+position: relative;
+font-size: 25px;
+
+}
+.ht{
+  border: 1px solid black;
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  padding: 20px;
+  background:yellow;
+  color: black;
+
+}
+.ht2{
+   border: 1px solid black;
+   height: 100px;
+   width: 100px;
+   position: absolute;
+   left: 120px;
+   margin: 10px;
+   padding: 10px;
+   background-color: blue;
+   color: chartreuse;
+  
+}
